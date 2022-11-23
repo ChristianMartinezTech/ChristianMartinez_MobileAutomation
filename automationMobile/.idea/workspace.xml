@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b80e3b4c-46ef-47e8-903f-b12a1c6cd3c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/screens/PrivacyScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/screens/DashBoardScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/screens/DashBoardScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/screens/MapScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/screens/MapScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/screens/TutorialScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/screens/TutorialScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/NavigationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/MapNavigationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/PlansOptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/PlansOptionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/PrivacyAndLegalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/PrivacyAndLegalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/util/ConfigCapabilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/util/ConfigCapabilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/util/screens/BaseScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/util/screens/BaseScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/util/tests/BaseMobileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/util/tests/BaseMobileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/SuiteTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/SuiteTest.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1653312527" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29Fb4D27sg2EsEMEC91Q9a9G3St" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/cf.martinez/Desktop/TaeBootcamp/MobileAutomation/ChristianMartinez_MobileAutomation/automationMobile&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/nayvir.zerpa/automationMobile/src/test/resources/SuiteTest.xml">
+    <configuration name="MapNavigationTest.navigateToMapScreen" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="androidAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.MapNavigationTest" />
+      <option name="METHOD_NAME" value="navigateToMapScreen" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrivacyAndLegalTest.navigateToPrivacyAndLegal" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="androidAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.PrivacyAndLegalTest" />
+      <option name="METHOD_NAME" value="navigateToPrivacyAndLegal" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/nayvir.zerpa/automationMobile/src/test/resources/SuiteTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="androidAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/SuiteTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/nayvir.zerpa/automationMobile/src/test/resources/SuiteTest.xml" />
+        <item itemvalue="TestNG.PrivacyAndLegalTest.navigateToPrivacyAndLegal" />
+        <item itemvalue="TestNG.MapNavigationTest.navigateToMapScreen" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b80e3b4c-46ef-47e8-903f-b12a1c6cd3c1" name="Changes" comment="" />
+      <created>1652711590007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652711590007</updated>
+      <workItem from="1652711591115" duration="756000" />
+      <workItem from="1652712446112" duration="660000" />
+      <workItem from="1652713137485" duration="522000" />
+      <workItem from="1652713728953" duration="1897000" />
+      <workItem from="1652715857869" duration="4908000" />
+      <workItem from="1652736970598" duration="3135000" />
+      <workItem from="1652742043825" duration="1000000" />
+      <workItem from="1652907904147" duration="3162000" />
+      <workItem from="1653066448913" duration="477000" />
+      <workItem from="1653086226297" duration="2770000" />
+      <workItem from="1653312468053" duration="487000" />
+      <workItem from="1654207894926" duration="497000" />
+      <workItem from="1655478778320" duration="4000" />
+      <workItem from="1655483296822" duration="35000" />
+      <workItem from="1657057679829" duration="203000" />
+      <workItem from="1666111385987" duration="122000" />
+      <workItem from="1666128562528" duration="601000" />
+      <workItem from="1666987714595" duration="17000" />
+      <workItem from="1668016613683" duration="2098000" />
+      <workItem from="1668563353439" duration="1242000" />
+      <workItem from="1668630652630" duration="4908000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
